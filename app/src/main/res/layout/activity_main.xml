@@ -29,7 +29,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="3"
-            android:hint="Dây cáp usb"
+            android:hint="@string/d_y_c_p_usb"
             android:textColor="@color/white"
             android:textColorHint="#DCDCDC"
             android:drawableLeft="@drawable/ic_search"/>

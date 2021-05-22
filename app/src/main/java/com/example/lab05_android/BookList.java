@@ -16,9 +16,7 @@ public class BookList {
                 new Book(R.drawable.hieu_long_con_tre_tuoi, "Hiểu lòng con trẻ"),
                 new Book(R.drawable.suc_manh_phi_thuong, "Sức  mạnh phi thường"),
                 new Book(R.drawable.huong_noi, "Hường nội"),
-                new Book(R.drawable.tim_kiem_cai_toi, "Tim kiem cai toi"),
-                new Book(R.drawable.start_up, "Start Up"),
-                new Book(R.drawable.song_kho_so, "Sống khổ sở")
+                new Book(R.drawable.tim_kiem_cai_toi, "Tim kiem cai toi")
         );
     }
 
